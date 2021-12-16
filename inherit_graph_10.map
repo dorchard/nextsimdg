@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_nextsim_1_1_logged.html" title=" " alt="" coords="5,64,124,91"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_iterator.html" title="A class that controls how time steps are performed." alt="" coords="175,5,292,32"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_iterator_1_1_iterant.html" title="A base class for classes that specify what happens during one timestep." alt="" coords="172,57,295,98"/>
+<area shape="rect" id="node7" href="$class_nextsim_1_1_model.html" title="A class that encapsulates the whole of the model." alt="" coords="178,123,289,149"/>
+<area shape="rect" id="node4" href="$class_nextsim_1_1_counterant.html" title=" " alt="" coords="350,5,489,32"/>
+<area shape="rect" id="node5" href="$class_nextsim_1_1_iterator_1_1_null_iterant.html" title="A simple Iterant that does nothing." alt="" coords="358,57,481,98"/>
+<area shape="rect" id="node6" href="$class_nextsim_1_1_simple_iterant.html" title="A simple implementation of the Iterator::Iterant class." alt="" coords="343,123,496,149"/>
+</map>

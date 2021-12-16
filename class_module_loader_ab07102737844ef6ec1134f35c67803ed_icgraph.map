@@ -1,0 +1,7 @@
+<map id="ModuleLoader::setImplementation" name="ModuleLoader::setImplementation">
+<area shape="rect" id="node1" title="Sets the implementation class of a module." alt="" coords="471,64,688,91"/>
+<area shape="rect" id="node2" href="$class_module_loader.html#aa915b6676c87f12be52fd71a068c4006" title="Initializes the model with an initial set of module implementations selected." alt="" coords="270,5,397,32"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_configured_module.html#a29e90d29d512bcaa265422ec2522363f" title="Parse the configuration for all of the modules defined in ModuleLoader." alt="" coords="244,57,423,98"/>
+<area shape="rect" id="node4" href="$class_module_loader.html#af7ed356f4f35df78e1954c38b48f8ce3" title="Sets the default implementation for a module." alt="" coords="249,123,418,149"/>
+<area shape="rect" id="node5" href="$class_module_loader.html#add7a23c05cc57c5c37efc50a72e8373e" title="Sets the default implementation for all modules." alt="" coords="5,123,196,149"/>
+</map>

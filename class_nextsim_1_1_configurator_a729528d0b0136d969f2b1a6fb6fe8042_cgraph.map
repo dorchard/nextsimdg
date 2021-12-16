@@ -1,0 +1,5 @@
+<map id="Nextsim::Configurator::addFiles" name="Nextsim::Configurator::addFiles">
+<area shape="rect" id="node1" title="Adds several config files to the configuration sources." alt="" coords="5,5,151,47"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_configurator.html#a22503d857f3de815565a70567c884ee9" title=" " alt="" coords="199,5,344,47"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_configurator.html#a20bf61e9d34695ea5fd6370e07b95572" title="Adds a istream source of configuration data." alt="" coords="392,5,537,47"/>
+</map>

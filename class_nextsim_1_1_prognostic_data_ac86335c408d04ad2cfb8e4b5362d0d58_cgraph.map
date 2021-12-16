@@ -1,0 +1,8 @@
+<map id="Nextsim::PrognosticData::configure" name="Nextsim::PrognosticData::configure">
+<area shape="rect" id="node1" title="The configuration function." alt="" coords="5,49,171,90"/>
+<area shape="rect" id="node2" href="$class_module_loader.html#a502bee319766ad5e46370a472c2ce114" title="Returns a reference to a static instance of the implementing class." alt="" coords="219,5,436,32"/>
+<area shape="rect" id="node3" href="$class_module_loader.html#a5655e5840bdda31cd7f8f4f63864de8c" title="Returns the default loader instance." alt="" coords="243,56,411,83"/>
+<area shape="rect" id="node5" href="$_configured_8hpp.html#addce5f96c514296ee85b739bbe10fa26" title="Template function for conditionally configuring references." alt="" coords="255,131,399,157"/>
+<area shape="rect" id="node4" href="$class_module_loader.html#a5be55a3f555d80b0cdbd50d710f4088b" title="Initializes the loader with no modules loaded." alt="" coords="489,56,616,83"/>
+<area shape="rect" id="node6" href="$class_nextsim_1_1_configured.html#a1976b952b6533bfd8624147f847ac042" title="Template function for conditionally configuring references." alt="" coords="484,123,621,165"/>
+</map>

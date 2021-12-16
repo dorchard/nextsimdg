@@ -1,0 +1,7 @@
+<map id="Nextsim::PrognosticData" name="Nextsim::PrognosticData">
+<area shape="rect" id="node1" title="A class holding all of the data for an element that is carried from one timestep to another." alt="" coords="21,721,201,1004"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_base_element_data.html" title="The base class for the per element data classes." alt="" coords="5,507,185,599"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_configured.html" title=" " alt="" coords="209,433,379,672"/>
+<area shape="rect" id="node4" href="$class_nextsim_1_1_configured_base.html" title="A base class necessary for the tryConfigure() functions to work." alt="" coords="185,5,352,97"/>
+<area shape="rect" id="node5" href="$class_nextsim_1_1_configured.html" title=" " alt="" coords="291,147,460,371"/>
+</map>

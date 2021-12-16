@@ -1,0 +1,4 @@
+<map id="ModuleLoader::getLoader" name="ModuleLoader::getLoader">
+<area shape="rect" id="node1" title="Returns the default loader instance." alt="" coords="5,5,173,32"/>
+<area shape="rect" id="node2" href="$class_module_loader.html#a5be55a3f555d80b0cdbd50d710f4088b" title="Initializes the loader with no modules loaded." alt="" coords="221,5,348,32"/>
+</map>

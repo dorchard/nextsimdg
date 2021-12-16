@@ -1,0 +1,5 @@
+<map id="Nextsim::tryConfigure" name="Nextsim::tryConfigure">
+<area shape="rect" id="node1" title="Template function for conditionally configuring references." alt="" coords="417,29,561,56"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_prognostic_data.html#ac86335c408d04ad2cfb8e4b5362d0d58" title="The configuration function." alt="" coords="204,22,369,63"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_element_data.html#a6cda37e18e649857998fcb6d31e16373" title="Configures the PrognosticData and physics implementation aspects of the object." alt="" coords="5,22,156,63"/>
+</map>

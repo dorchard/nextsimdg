@@ -1,0 +1,10 @@
+<map id="Nextsim::ConfiguredModule::parseConfigurator" name="Nextsim::ConfiguredModule::parseConfigurator">
+<area shape="rect" id="node1" title="Parse the configuration for all of the modules defined in ModuleLoader." alt="" coords="5,140,184,181"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_configured_module.html#a2319334a66284ea9cc9b46790b5fc1ad" title="Transforms a module name into a configuration option name." alt="" coords="254,5,433,47"/>
+<area shape="rect" id="node3" href="$class_module_loader.html#a5655e5840bdda31cd7f8f4f63864de8c" title="Returns the default loader instance." alt="" coords="259,71,427,98"/>
+<area shape="rect" id="node5" href="$class_module_loader.html#a65d23011103a161e995145d68d96b273" title=" " alt="" coords="232,122,455,149"/>
+<area shape="rect" id="node6" href="$class_module_loader.html#ad3cef252a5ca522e59fc90e9456a55d2" title="Returns the set of modules that can be implemented as a set of strings." alt="" coords="255,173,431,199"/>
+<area shape="rect" id="node7" href="$class_nextsim_1_1_configurator.html#abab5505ef80f14f069a4c2187d3761ae" title="Parses all configuration sources." alt="" coords="271,224,416,265"/>
+<area shape="rect" id="node8" href="$class_module_loader.html#ab07102737844ef6ec1134f35c67803ed" title="Sets the implementation class of a module." alt="" coords="235,290,452,317"/>
+<area shape="rect" id="node4" href="$class_module_loader.html#a5be55a3f555d80b0cdbd50d710f4088b" title="Initializes the loader with no modules loaded." alt="" coords="503,71,629,98"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_nextsim_1_1_base_element_data.html" title="The base class for the per element data classes." alt="" coords="220,33,400,60"/>
+<area shape="rect" id="node2" href="$class_nextsim_1_1_external_data.html" title="A class holding all of the data for an element that is imported from external sources (coupled models..." alt="" coords="456,5,605,32"/>
+<area shape="rect" id="node4" href="$class_nextsim_1_1_prognostic_data.html" title="A class holding all of the data for an element that is carried from one timestep to another." alt="" coords="448,107,613,133"/>
+<area shape="rect" id="node5" href="$class_nextsim_1_1_unused_data.html" title="A class to be used when a non&#45;specific class derived from BaseElementData is needed." alt="" coords="457,56,605,83"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_element_data.html" title="The class which holds all the data for a single element of the model." alt="" coords="661,175,812,217"/>
+<area shape="rect" id="node6" href="$class_nextsim_1_1_configured_base.html" title="A base class necessary for the tryConfigure() functions to work." alt="" coords="5,223,172,249"/>
+<area shape="rect" id="node7" href="$class_nextsim_1_1_configured.html" title=" " alt="" coords="241,150,379,191"/>
+<area shape="rect" id="node9" href="$class_nextsim_1_1_configured.html" title=" " alt="" coords="241,215,379,257"/>
+<area shape="rect" id="node11" href="$class_nextsim_1_1_configured.html" title=" " alt="" coords="225,281,395,322"/>
+<area shape="rect" id="node12" href="$class_nextsim_1_1_configured.html" title=" " alt="" coords="241,85,379,126"/>
+<area shape="rect" id="node13" href="$class_nextsim_1_1_configured.html" title=" " alt="" coords="226,347,394,373"/>
+<area shape="rect" id="node8" href="$class_config2.html" title=" " alt="" coords="498,157,563,184"/>
+<area shape="rect" id="node10" href="$class_config3.html" title=" " alt="" coords="498,208,563,235"/>
+<area shape="rect" id="node14" title=" " alt="" coords="505,309,556,336"/>
+<area shape="rect" id="node15" title=" " alt="" coords="483,360,578,387"/>
+</map>

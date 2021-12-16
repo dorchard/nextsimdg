@@ -1,0 +1,8 @@
+<map id="ModuleLoader::init" name="ModuleLoader::init">
+<area shape="rect" id="node1" title="Initializes the loader with no modules loaded." alt="" coords="647,70,773,97"/>
+<area shape="rect" id="node2" href="$class_module_loader.html#a5655e5840bdda31cd7f8f4f63864de8c" title="Returns the default loader instance." alt="" coords="431,45,599,71"/>
+<area shape="rect" id="node6" href="$class_module_loader.html#aa915b6676c87f12be52fd71a068c4006" title="Initializes the model with an initial set of module implementations selected." alt="" coords="451,95,578,122"/>
+<area shape="rect" id="node3" href="$class_nextsim_1_1_prognostic_data.html#ac86335c408d04ad2cfb8e4b5362d0d58" title="The configuration function." alt="" coords="211,5,376,47"/>
+<area shape="rect" id="node5" href="$class_nextsim_1_1_configured_module.html#a29e90d29d512bcaa265422ec2522363f" title="Parse the configuration for all of the modules defined in ModuleLoader." alt="" coords="204,71,383,112"/>
+<area shape="rect" id="node4" href="$class_nextsim_1_1_element_data.html#a6cda37e18e649857998fcb6d31e16373" title="Configures the PrognosticData and physics implementation aspects of the object." alt="" coords="5,5,156,47"/>
+</map>

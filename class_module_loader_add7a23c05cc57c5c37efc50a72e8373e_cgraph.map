@@ -1,0 +1,7 @@
+<map id="ModuleLoader::setAllDefaults" name="ModuleLoader::setAllDefaults">
+<area shape="rect" id="node1" title="Sets the default implementation for all modules." alt="" coords="5,31,196,57"/>
+<area shape="rect" id="node2" href="$class_module_loader.html#ad3cef252a5ca522e59fc90e9456a55d2" title="Returns the set of modules that can be implemented as a set of strings." alt="" coords="244,5,420,32"/>
+<area shape="rect" id="node3" href="$class_module_loader.html#af7ed356f4f35df78e1954c38b48f8ce3" title="Sets the default implementation for a module." alt="" coords="247,56,417,83"/>
+<area shape="rect" id="node4" href="$class_module_loader.html#a65d23011103a161e995145d68d96b273" title=" " alt="" coords="468,31,691,57"/>
+<area shape="rect" id="node5" href="$class_module_loader.html#ab07102737844ef6ec1134f35c67803ed" title="Sets the implementation class of a module." alt="" coords="471,81,688,108"/>
+</map>
